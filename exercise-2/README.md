@@ -7,4 +7,7 @@ In the space below, make a three column table of the current courses you are tak
 See `complete` branch for answers.
 
 | Course Number | Course Title | Instructor |
-
+| ------------- | ------------ | ---------- |
+| **INFO 201** | _Technical Foundations_ | Mike Freeman|
+| **QMETH 201** | _Intro to Statistics_ | Erich Studer-Ellis|
+| **ENGL 281** | _ Intermediate Expository Writing_ | Szu-Han Chen |
